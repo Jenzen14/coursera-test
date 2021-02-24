@@ -45,8 +45,6 @@ h2{
 }
 #nav-list {
 	text-align: center;
-	background-color: lightgrey;
+	background-color:grey;
 }
-#collapsable-nav {
-	background-color: lightgrey;
-}
+

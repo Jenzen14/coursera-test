@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+	
+}
+.navbar{
+
+border: none;
+background-color: gray;
+color: black;
+}
+
+.navbar-brand{
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+}
+body{
+	background-color: white;
+	color: black;
+}
+.glyphicon{
+	font-size: 30px;
+    margin: 10px 5px 10px;
+	color: black; 
+    
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#nav-list {
+	text-align: center;
+	background-color: lightgrey;
+}
+#collapsable-nav {
+	background-color: lightgrey;
+}
